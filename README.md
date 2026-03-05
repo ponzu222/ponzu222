@@ -20,6 +20,8 @@
 
 ### ✦ who am i
 
+<img align="right" src="https://media1.tenor.com/m/vMS8fFQR0OAAAAAC/anime-computer.gif" width="160" />
+
 ```typescript
 const ponzu = {
   from:     "Osaka 🐙",
@@ -77,5 +79,6 @@ const ponzu = {
 *osaka nights · matcha mornings · weird code always* &nbsp;🌸
 
 </div>
+
 
 
