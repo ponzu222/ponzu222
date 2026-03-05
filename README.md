@@ -1,5 +1,9 @@
 <div align="center">
 
+<img src="https://media1.tenor.com/m/UY9WmovM9VsAAAAd/anime-girl-sleepy.gif" width="380" />
+
+<br/>
+
 <img src="https://readme-typing-svg.demolab.com?font=Nunito&weight=700&size=28&duration=3000&pause=800&color=FF9BB5&center=true&vCenter=true&width=500&lines=hi%2C+i'm+ponzu+%F0%9F%8D%A1;yes+it+works+on+my+machine;why+is+this+even+working%3F;git+push+%26+pray+%F0%9F%8C%99" />
 
 <br/>
@@ -80,3 +84,4 @@ const ponzu = {
 *matcha breaks · midnight commits · things that probably shouldn't work but do* &nbsp;🌸
 
 </div>
+
