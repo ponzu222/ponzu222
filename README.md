@@ -26,15 +26,18 @@
 
 <img align="right" src="https://media1.tenor.com/m/vMS8fFQR0OAAAAAC/anime-computer.gif" width="160" />
 
-```typescript
-const ponzu = {
-  timezone:  "JST (awake past midnight anyway)",
-  currently: "reading docs i should've read 3 hrs ago",
-  fuel:      ["matcha", "takoyaki", "lo-fi on repeat"],
-  situation: "it compiled. no idea why. not touching it.",
-  vibe:      "somewhere between a bug and a feature",
-}
-```
+i like building things that feel small but are actually kind of complex under the hood. the kind of project where you spend 4 hours on one function and then never touch it again because it just works.
+
+lately i've been into connecting AI models to real actions — not just chatbots, but things that actually do stuff. call an API, sign a transaction, decide something on their own. it's a little chaotic and i love it.
+
+i also mess around with blockchain integrations — smart contracts, payment flows, wallet stuff. not because crypto is cool (sometimes it's not) but because the idea of code that holds money and runs without anyone's permission is genuinely interesting to me.
+
+**what i actually work with:**
+
+- 🤖 &nbsp; AI integrations — OpenAI, function calling, building agents that do more than answer questions
+- ⛓️ &nbsp; blockchain & smart contracts — Solidity, wallets, onchain logic, payment protocols
+- 🔧 &nbsp; backend & APIs — TypeScript, Node.js, the boring infrastructure that makes everything run
+- 🎨 &nbsp; frontend when necessary — React, Vite, enough CSS to not embarrass myself
 
 <br clear="right"/>
 
@@ -84,4 +87,5 @@ const ponzu = {
 *matcha breaks · midnight commits · things that probably shouldn't work but do* &nbsp;🌸
 
 </div>
+
 
