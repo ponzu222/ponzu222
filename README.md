@@ -1,13 +1,17 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=ffb7c5,ffd6e0,ffb7c5&height=180&section=header&text=ponzu&fontSize=65&fontColor=fff&fontAlignY=40&desc=✦+osaka+nights+%26+compiler+errors+✦&descAlignY=60&descSize=15&animation=fadeIn" width="100%"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Nunito&weight=700&size=20&duration=3000&pause=800&color=FF9BB5&center=true&vCenter=true&width=500&lines=hi+i'm+ponzu+%F0%9F%8D%A1;i+make+things+and+break+things;mostly+break+things+%F0%9F%8C%B8;currently+caffeinated+%E2%98%95" />
+<img src="https://readme-typing-svg.demolab.com?font=Nunito&weight=700&size=28&duration=3000&pause=800&color=FF9BB5&center=true&vCenter=true&width=500&lines=hi%2C+i'm+ponzu+%F0%9F%8D%A1;girl+who+codes+in+the+dark;powered+by+matcha+%F0%9F%8D%B5;osaka+local+%F0%9F%90%99" />
 
 <br/>
 
+![](https://img.shields.io/badge/she%2Fher-%23FF9BB5?style=flat-square)
+![](https://img.shields.io/badge/Osaka%2C+Japan-%23FFD6E0?style=flat-square)
+![](https://img.shields.io/badge/always+compiling-%231a1a2e?style=flat-square&logoColor=white)
+
+<br/><br/>
+
 ```
-✦ girl who codes in the dark ✦ powered by matcha ✦ osaka local ✦
+✦  girl who codes in the dark  ✦  powered by matcha  ✦  osaka local  ✦
 ```
 
 </div>
@@ -29,7 +33,7 @@ const ponzu = {
 
 ---
 
-### ✦ what's living in my brain right now
+### ✦ what's in my head right now
 
 > 🌙 &nbsp; *"it's 2am and this is definitely going to work this time"*
 
@@ -68,9 +72,9 @@ const ponzu = {
 ---
 
 <div align="center">
+<br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=ffb7c5,ffd6e0,ffb7c5&height=100&section=footer&animation=fadeIn" width="100%"/>
-
-*osaka nights · matcha mornings · weird code always* 🌸
+*osaka nights · matcha mornings · weird code always* &nbsp;🌸
 
 </div>
+
