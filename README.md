@@ -1,18 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=ffb7c5,ffd6e0,ffe4f0&height=200&section=header&text=ponzu&fontSize=60&fontColor=fff&fontAlignY=38&desc=✦+osaka+nights+%26+compiler+errors+✦&descAlignY=58&descSize=16&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=ffb7c5,ffd6e0,ffb7c5&height=180&section=header&text=ponzu&fontSize=65&fontColor=fff&fontAlignY=40&desc=✦+osaka+nights+%26+compiler+errors+✦&descAlignY=60&descSize=15&animation=fadeIn" width="100%"/>
 
-</div>
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Nunito&weight=600&size=20&duration=3000&pause=800&color=FF9BB5&center=true&vCenter=true&width=500&lines=hi+i'm+ponzu+%F0%9F%8D%A1;i+make+things+and+break+things;mostly+break+things+%F0%9F%8C%B8;currently+caffeinated+%E2%98%95" alt="typing" />
-
-</div>
+<img src="https://readme-typing-svg.demolab.com?font=Nunito&weight=700&size=20&duration=3000&pause=800&color=FF9BB5&center=true&vCenter=true&width=500&lines=hi+i'm+ponzu+%F0%9F%8D%A1;i+make+things+and+break+things;mostly+break+things+%F0%9F%8C%B8;currently+caffeinated+%E2%98%95" />
 
 <br/>
-
-<div align="center">
 
 ```
 ✦ girl who codes in the dark ✦ powered by matcha ✦ osaka local ✦
@@ -21,8 +13,6 @@
 </div>
 
 ---
-
-<img align="right" width="180" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDd6eDhkY3ZqNXZtbzNzejN6eWVvbjJsaXV5dWh5bHVrZzZxZTFkZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/KAq5w47R9rmTuxXUOs/giphy.gif" />
 
 ### ✦ who am i
 
@@ -37,17 +27,11 @@ const ponzu = {
 }
 ```
 
-<br clear="right"/>
-
 ---
 
 ### ✦ what's living in my brain right now
 
-<br/>
-
 > 🌙 &nbsp; *"it's 2am and this is definitely going to work this time"*
-
-<br/>
 
 - 🍵 &nbsp; obsessing over things that are technically unnecessary but emotionally required
 - 🐰 &nbsp; writing small tools for fun and calling it a portfolio
@@ -71,21 +55,12 @@ const ponzu = {
 
 ---
 
-### ✦ activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ponzu222&bg_color=1a1a2e&color=ffb7c5&line=ff9bb5&point=ffffff&area=true&hide_border=true" width="95%"/>
-
-</div>
-
----
-
 ### ✦ stats
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=ponzu222&theme=tokyonight&hide_border=true&ring=FF9BB5&fire=FF9BB5&currStreakLabel=FF9BB5&background=1a1a2e" width="49%" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=ponzu222&theme=tokyonight&hide_border=true&ring=FF9BB5&fire=FF9BB5&currStreakLabel=FF9BB5" width="48%" />
+&nbsp;
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ponzu222&layout=compact&hide_border=true&title_color=FF9BB5&text_color=cdd6f4&bg_color=1a1a2e" width="40%" />
 
 </div>
@@ -94,8 +69,8 @@ const ponzu = {
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=ffb7c5,ffd6e0,ffe4f0&height=100&section=footer&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=ffb7c5,ffd6e0,ffb7c5&height=100&section=footer&animation=fadeIn" width="100%"/>
 
-*osaka nights · matcha mornings · weird code always* &nbsp;🌸
+*osaka nights · matcha mornings · weird code always* 🌸
 
 </div>
