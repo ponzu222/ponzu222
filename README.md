@@ -4,9 +4,9 @@
 
 <br/>
 
-![](https://img.shields.io/badge/she%2Fher-%23FF9BB5?style=flat-square)
-![](https://img.shields.io/badge/Osaka%2C+Japan-%23FFD6E0?style=flat-square)
-![](https://img.shields.io/badge/always+compiling-%231a1a2e?style=flat-square&logoColor=white)
+![](https://img.shields.io/badge/彼女-%23FF9BB5?style=flat-square)
+![](https://img.shields.io/badge/大阪%2C+日本-%23FFD6E0?style=flat-square)
+![](https://img.shields.io/badge/常にコンパイル中-%231a1a2e?style=flat-square&logoColor=white)
 
 <br/><br/>
 
@@ -35,12 +35,12 @@ const ponzu = {
 
 ### ✦ what's in my head right now
 
-> 🌙 &nbsp; *"it's 2am and this is definitely going to work this time"*
+> 🌙 &nbsp; *「午前2時だけど、今度こそ絶対うまくいく」*
 
-- 🍵 &nbsp; obsessing over things that are technically unnecessary but emotionally required
-- 🐰 &nbsp; writing small tools for fun and calling it a portfolio
-- 🌸 &nbsp; learning something new every week (forgetting it by friday)
-- ✨ &nbsp; making commits when i should be sleeping
+- 🍵 &nbsp; 技術的には不要だけど、感情的には必要なものに執着してる
+- 🐰 &nbsp; 楽しみで小さなツールを書いて、ポートフォリオと呼んでいる
+- 🌸 &nbsp; 毎週新しいことを学んで、金曜日には忘れてる
+- ✨ &nbsp; 寝るべき時間にコミットしてる
 
 ---
 
@@ -77,4 +77,5 @@ const ponzu = {
 *osaka nights · matcha mornings · weird code always* &nbsp;🌸
 
 </div>
+
 
