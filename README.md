@@ -34,10 +34,10 @@ also i just really like making small tools. the kind nobody asks for but someone
 
 **what i actually work with:**
 
-- 🤖 &nbsp; AI integrations — OpenAI, function calling, building agents that do more than answer questions
-- ⛓️ &nbsp; blockchain & smart contracts — Solidity, wallets, onchain logic, payment protocols
-- 🔧 &nbsp; backend & APIs — TypeScript, Node.js, the boring infrastructure that makes everything run
-- 🎨 &nbsp; frontend when necessary — React, Vite, enough CSS to not embarrass myself
+- 🤖 &nbsp; AI agents — connecting models to real actions, not just Q&A. the kind that calls an API, makes a decision, does something without you clicking anything
+- ⚡ &nbsp; x402 & payment flows — APIs that charge per request with no subscription, no API key, just a header. still wrapping my head around it but it's kind of fascinating
+- 🔗 &nbsp; agent integrations — ERC-8004, A2A protocol, things that have their own identity and talk to each other. honestly more interesting than it sounds
+- 🔧 &nbsp; backend & tooling — TypeScript, Node.js, the unglamorous stuff that makes everything else actually work
 
 <br clear="right"/>
 
@@ -78,6 +78,16 @@ also i just really like making small tools. the kind nobody asks for but someone
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ponzu222&layout=compact&hide_border=true&title_color=FF9BB5&text_color=cdd6f4&bg_color=1a1a2e" width="40%" />
 
 </div>
+
+---
+
+<div align="center">
+<br/>
+
+*matcha breaks · midnight commits · things that probably shouldn't work but do* &nbsp;🌸
+
+</div>
+
 
 ---
 
