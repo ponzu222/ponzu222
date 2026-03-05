@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Nunito&weight=700&size=28&duration=3000&pause=800&color=FF9BB5&center=true&vCenter=true&width=500&lines=hi%2C+i'm+ponzu+%F0%9F%8D%A1;girl+who+codes+in+the+dark;powered+by+matcha+%F0%9F%8D%B5;osaka+local+%F0%9F%90%99" />
+<img src="https://readme-typing-svg.demolab.com?font=Nunito&weight=700&size=28&duration=3000&pause=800&color=FF9BB5&center=true&vCenter=true&width=500&lines=hi%2C+i'm+ponzu+%F0%9F%8D%A1;yes+it+works+on+my+machine;why+is+this+even+working%3F;git+push+%26+pray+%F0%9F%8C%99" />
 
 <br/>
 
@@ -11,7 +11,7 @@
 <br/><br/>
 
 ```
-✦  girl who codes in the dark  ✦  powered by matcha  ✦  osaka local  ✦
+✦  vibing & shipping  ✦  soft girl, hard commits  ✦
 ```
 
 </div>
@@ -24,18 +24,19 @@
 
 ```typescript
 const ponzu = {
-  from:     "Osaka 🐙",
-  doing:    "turning coffee into bugs since forever",
-  loves:    ["lo-fi music", "late night coding", "matcha everything"],
-  hates:    ["undefined is not a function", "merge conflicts"],
-  mood:     Math.random() > 0.5 ? "debugging 🐛" : "shipping ✨",
-  ask_me:   "anything about code, takoyaki spots, or both",
+  timezone:  "JST (awake past midnight anyway)",
+  currently: "reading docs i should've read 3 hrs ago",
+  fuel:      ["matcha", "takoyaki", "lo-fi on repeat"],
+  situation: "it compiled. no idea why. not touching it.",
+  vibe:      "somewhere between a bug and a feature",
 }
 ```
 
+<br clear="right"/>
+
 ---
 
-### ✦ what's in my head right now
+### ✦ 今、頭の中にあること
 
 > 🌙 &nbsp; *「午前2時だけど、今度こそ絶対うまくいく」*
 
@@ -76,9 +77,6 @@ const ponzu = {
 <div align="center">
 <br/>
 
-*osaka nights · matcha mornings · weird code always* &nbsp;🌸
+*matcha breaks · midnight commits · things that probably shouldn't work but do* &nbsp;🌸
 
 </div>
-
-
-
