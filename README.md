@@ -26,11 +26,11 @@
 
 <img align="right" src="https://media1.tenor.com/m/vMS8fFQR0OAAAAAC/anime-computer.gif" width="160" />
 
-i like building things that feel small but are actually kind of complex under the hood. the kind of project where you spend 4 hours on one function and then never touch it again because it just works.
+i build stuff mostly for fun and sometimes it accidentally becomes useful. started with frontend, got curious about how money moves onchain, now i'm somewhere in between and not sure how i got here.
 
-lately i've been into connecting AI models to real actions — not just chatbots, but things that actually do stuff. call an API, sign a transaction, decide something on their own. it's a little chaotic and i love it.
+obsessed with the idea of code that runs on its own — like, you deploy it and it just... lives there doing things. agents, contracts, whatever. if it moves by itself i want to know how it works.
 
-i also mess around with blockchain integrations — smart contracts, payment flows, wallet stuff. not because crypto is cool (sometimes it's not) but because the idea of code that holds money and runs without anyone's permission is genuinely interesting to me.
+also i just really like making small tools. the kind nobody asks for but someone always ends up using.
 
 **what i actually work with:**
 
@@ -87,5 +87,3 @@ i also mess around with blockchain integrations — smart contracts, payment flo
 *matcha breaks · midnight commits · things that probably shouldn't work but do* &nbsp;🌸
 
 </div>
-
-
